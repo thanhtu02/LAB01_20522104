@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name"> Lab1_20522104 </string>
+    <string name="row">Row </string>
+    <string name="column"> Column </string>
+    <string name="listview"> ListView </string>
+    <string name="gridview"> GridView </string>
+    <string name="text1"> \ \ He\'d have you all unravel at the</string>
+    <string name="text2"> \ \ Heed not the rabble </string>
+    <string name="text3"> \ \ Sound of screams but the </string>
+    <string name="text4"> \ \ Who scream </string>
+</resources>
